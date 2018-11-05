@@ -2,5 +2,5 @@
 
 int main(void)
 {
-	executeOperation('-', 0, 100);
+	executeOperation('+', 0, 100);
 }

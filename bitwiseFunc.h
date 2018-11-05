@@ -6,4 +6,4 @@ int bitwiseAdd(int first, int second);
 int bitwiseSub(int first, int second);
 int executeOperation(char operation, int num1, int num2);
 
-#endif /*BITWISEFUNC_H_*/
+#endif

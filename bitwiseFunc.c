@@ -7,7 +7,7 @@
 void printDecToBin(int n)
 {
 	int temp;
-	for(int i = 31; i >= 0; i--)
+	for (int i = 31; i >= 0; i--)
 	{
 		temp = n >> i;
 		if (temp & 1) printf("1");
